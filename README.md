@@ -1,5 +1,5 @@
 # Language-Detection 
-[Language Detection - Live App ](https://language-detection-ml-npl.streamlit.app/) 
+[Click Here to Open Live App ](https://language-detection-ml-npl.streamlit.app/) 
 
   Project Overview
   
