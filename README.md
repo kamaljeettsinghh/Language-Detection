@@ -10,16 +10,15 @@
 - Jupyter Notebook included for reproducibility.
 
 # Tech Stack
--Languages: Python
-- uh
--Libraries: Pandas, NumPy, Scikit-learn, Streamlit
--Tools: Jupyter Notebook, Excel (data source)
+- Languages: Python
+- Libraries: Pandas, NumPy, Scikit-learn, Streamlit
+- Tools: Jupyter Notebook, Excel (data source)
 
 # Workflow
--Data collection and preprocessing (Excel dataset - cleaned text).
--Feature extraction (TF-IDF / Bag-of-Words).
--Model training and testing
--Deployment with Streamlit
+- Data collection and preprocessing (Excel dataset - cleaned text).
+- Feature extraction (TF-IDF / Bag-of-Words).
+- Model training and testing
+- Deployment with Streamlit
 
 # Results
 - Accuracy metrics (95%).
