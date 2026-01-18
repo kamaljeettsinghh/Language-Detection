@@ -1,7 +1,5 @@
 # Language-Detection 
 [Click Here to Open Live App ](https://language-detection-ml-npl.streamlit.app/) 
-
-#  Project Overview
 - This project detects the language of a given text using machine learning and NLP techniques.
 - It is deployed as a Streamlit app for easy interaction.
 
