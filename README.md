@@ -11,6 +11,7 @@
 
 # Tech Stack
 -Languages: Python
+- uh
 -Libraries: Pandas, NumPy, Scikit-learn, Streamlit
 -Tools: Jupyter Notebook, Excel (data source)
 
